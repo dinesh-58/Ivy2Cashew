@@ -52,4 +52,4 @@ The converted CSV can be imported into other finance tracker apps as well
 3. Select the converted csv file (Note: The ivy export csv file won't work here. You **will** need to use the converted csv)
 4. Select columns accordingly
    - For the account column, leave default account as Unspecified. Note that you may end up with 2 "Cash" accounts. Delete the one with no transactions or merge both of them.
-   - For the date column, set format to `yyyy-MM-dd HH:mm:ss.SSSSSS`
+   - For the date column, you can leave the format as it is (`yyyy-MM-dd HH:mm:ss`)
