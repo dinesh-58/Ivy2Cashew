@@ -45,6 +45,7 @@ To facilitate the transition, I developed this script to convert Ivy Wallet's CS
   ```
 
 ## Compatibility with other apps
+The converted CSV can be imported into other finance tracker apps as well
 ### [Monekin](https://github.com/enrique-lozano/Monekin)
 1. Run the conversion script using the instructions above
 2. In Monekin, go to the **More** tab, then **Data** > **Manual import**
